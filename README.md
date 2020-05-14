@@ -2,4 +2,4 @@
 
 branch1
 
-brach2
+branch2
